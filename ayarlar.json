@@ -1,0 +1,35 @@
+  {
+    "sahip" : "905082807989202964",
+    "prefix" : ".",
+    "footer" : "Kado ❤️ Vestia",
+    "botdurum" : "Vestia ❤️ ⚚ Kado#0001",
+
+    "tag" : "⚚",
+    "etikettag" : "Etiket Tagınız #'siz'",
+    "sembol" : "|",
+  
+    "yetkiliRol" : ["905804862183309352"],
+    "vipRol" : "905806582418378843",
+    "boosterRol" : "926779050683424809",
+    "kayıtsızRol" : "905213192563753042",
+    "erkekRol1" : "905807022946123826",
+    "erkekRol2" : "905807024204443659",
+    "kadınRol1" : "905807019506794546" ,
+    "kadınRol2" : "905807021440401439",
+
+    
+    "EnDüsükYetkiliRol" : "905797419298603029", 
+    "BotKomutRol" : "905804863655514153",
+    "RegisterYetkiliRol" : "905804862183309352",
+    
+    "tagRol" : "906275494880772127",
+    "tagLog" : "905184922128506900",
+
+    "SunucuID" : "905098279266693201",
+    "hosgeldinKanal" : "926849813977387048",
+    "sohbetKanal" : "926850113417121802", 
+    "botSesKanal" : "905147512036397076",
+  
+    "yes" : "<a:vestiatik:920821525987328040>",
+    "no" : "<a:vestiacarpi:920821553271300127>"
+}
